@@ -22,4 +22,4 @@ The app comes with a **colorful, animated UI**, featuring Lottie animations, col
 
 ## 🚀 Demo
 
-[Streamlit Cloud Live App](https://boudypilot.streamlit.app)
+[Live App](https://boudypilot.streamlit.app)
